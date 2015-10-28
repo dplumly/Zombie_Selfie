@@ -5,6 +5,12 @@ To spice up the office around Halloween I decided to make a molded zombie arm th
 The build used a molded silicone arm (happens to be mine and my hair is still growing back), a custom steel mount to clip to an office partition, and a vibration sensor hooked up to an Arduino. Once the arm is slapped a photo will be taken using an IR Led and passed to the Eye-Fi card in the camera. The photo is then put into a Dropbox folder and If This Then That (IFTTT) posts the photo to Twitter.
 
 ----------
+
+![Schematic](https://raw.githubusercontent.com/dplumly/Zombie_Selfie/master/img/build.jpg)
+![Schematic](https://github.com/dplumly/Zombie_Selfie/blob/master/img/hand.jpg)
+----------
+
+----------
 <strong> Resources:</strong> 
 
 Tested Mold Making: https://www.youtube.com/watch?v=bPS-W6YZFb4
@@ -92,5 +98,17 @@ Now that we have the arm taken care of we can move on the the electronics. I use
 I welded some steel sheeting to some pencil rod for my stand since it is designed to be mounted on a cubical wall. Your mount will depend on where you decide to put the setup. 
 
 
+Final Build
+![Schematic](https://github.com/dplumly/Zombie_Selfie/blob/master/img/use1.JPG)
+
+----------
+![Schematic](https://github.com/dplumly/Zombie_Selfie/blob/master/img/use2.JPG)
+
+----------
+![Schematic](https://github.com/dplumly/Zombie_Selfie/blob/master/img/use3.JPG)
+
+----------
+
+![Schematic](https://github.com/dplumly/Zombie_Selfie/blob/master/img/Zombie_Arm_bb.jpg)
 
 
