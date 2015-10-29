@@ -6,8 +6,8 @@ The build used a molded silicone arm (happens to be mine and my hair is still gr
 
 ----------
 
-![Schematic](https://raw.githubusercontent.com/dplumly/Zombie_Selfie/master/img/build.jpg)
-![Schematic](https://github.com/dplumly/Zombie_Selfie/blob/master/img/hand.jpg)
+![Schematic](https://github.com/dplumly/Zombie_Selfie/blob/master/img/zombie1_sm.jpg)
+![Schematic](https://github.com/dplumly/Zombie_Selfie/blob/master/img/zombie3_sm.jpg)
 ----------
 
 ----------
