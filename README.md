@@ -91,11 +91,15 @@ Once that has dried overnight I made a silicone mixture of 10 parts Naptha or a 
 
 
 <strong> Electronics:</strong> 
-Now that we have the arm taken care of we can move on the the electronics. I used a vibration sensor and drilled a hole out into the arm to fit inside. The camera I have is a Canon 60D. The code I have works with that camera. You most likely will have a different camera so as long as it has a remote you can use it this way. Here is the library I used for the IR control. If yours isn’t in here you can use the IR decoders and emitters to get the IR code and plug it into the code as a digitalWrite that pin high.
+Now that we have the arm taken care of we can move on the the electronics. I used a vibration sensor and drilled a hole out into the arm to fit inside. The orientation of this sensor matters so play with it. You'll see by the LED when you turn it which way is high and low. You will want the LED to be low which means not lit.
+
+The camera I have is a Canon 60D and the code posted works with this specific camera. In the IR Library you can find the code for your camera or decode it yourself. Here is the library I used for the IR control. (http://sebastian.setz.name/arduino/my-libraries/multi-camera-ir-control/) If your camera code isn’t in here you can use the IR decoders and emitters to get the IR code and plug it into the code as a digitalWrite that pin high.
+
+For people to be able to review their images I hooked up a HDMI from the HDMI out of the camera to a monitor. I turned the sleep functions off on the camera and the monitor so the last image taken would always be displayed.
 
 
 <strong> The Mount:</strong> 
-I welded some steel sheeting to some pencil rod for my stand since it is designed to be mounted on a cubical wall. Your mount will depend on where you decide to put the setup. 
+I welded some steel sheeting to some pencil rod for my stand since it is designed to be mounted on a cubical wall. Your mount will depend on where you decide to put the setup. You could 3D print one, make one out of wood...
 
 
 Final Build
